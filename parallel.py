@@ -1,5 +1,3 @@
-# parallel.py
-
 import time
 import multiprocessing
 

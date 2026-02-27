@@ -1,5 +1,3 @@
-# non_parallel.py
-
 import time
 
 def hitung_jumlah_kuadrat(n):
